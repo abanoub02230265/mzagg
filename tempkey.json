@@ -1,15 +1,15 @@
 [
   {
     "id": "7ec8c9307e9f0a34",
-    "username": "true",
-    "password": "true",
+    "username": "km",
+    "password": "km",
     "expiresAt": "2025-12-31",
     "allowOffline": true
   },
   {
     "id": "7ec8c9307e9f0a34",
-    "username": "true",
-    "password": "true",
+    "username": "km",
+    "password": "km",
     "expiresAt": "2025-11-30",
     "allowOffline": false
   }
