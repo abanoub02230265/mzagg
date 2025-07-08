@@ -1,16 +1,3 @@
-[
-  {
-    "id": "b70d91e8f08a1185",
-    "username": "mzagngy",
-    "password": "Hack",
-    "expiresAt": "2026-12-31",
-    "allowOffline": true
-  },
-  {
-    "id": "android_device_id_2",
-    "username": "user2",
-    "password": "pass2",
-    "expiresAt": "2025-11-30",
-    "allowOffline": false
-  }
-]
+{
+  "Password": "EpicModder"
+}
